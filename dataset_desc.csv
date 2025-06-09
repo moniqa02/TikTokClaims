@@ -1,0 +1,13 @@
+column_name,data_type,description
+id,int,Unique identifier for each row in the dataset
+claim_status,string,Specifies whether the video contains a claim or an opinion
+video_id,int,Unique numeric identifier assigned to the video
+video_duration_sec,int,Duration of the video measured in seconds
+video_transcription_text,string,Text transcription of the video
+verified_status,string,Indicates whether the video claim has been verified
+author_ban_status,string,Shows the current ban status of the video's author
+video_view_count,float,Total number of views the video has received
+video_like_count,float,Total number of likes the video has received
+video_share_count,float,Total number of times the video has been shared
+video_download_count,float,Total number of times the video has been downloaded
+video_comment_count,float,Total number of comments on the video
