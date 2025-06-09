@@ -1,0 +1,15 @@
+TikTok Analysis
+
+This is a project created for educational purposes. It analyzes TikTok data using Python and presents the results in an interactive dashboard built with Tableau.
+
+Dashboard
+Interactive dashboard here:
+https://public.tableau.com/views/TikTokAnalysis_17494551128290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Tools used:
+- Python (Pandas, Numpy, Matplotlib, Seaborn, sklearn)
+- Jupyter Notebook
+- Tableau
+
+This project was made for learning and demonstration purposes only. The data used may be simplified or incomplete.
+All code was written as part of a personal learning process.
